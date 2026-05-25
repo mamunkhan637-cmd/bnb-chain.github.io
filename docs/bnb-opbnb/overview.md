@@ -1,5 +1,4 @@
----rawand latif
-title: opBNB Overview - opBNB 
+---rawand latifview - opBNB 
 ---
 
 # opBNB - High-performance layer 2 solution
